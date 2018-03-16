@@ -27,5 +27,6 @@ To run the code, you need to install (python 2.7)
 - pip install git+https://github.com/vgm64/gmplot.git
 4. The code uses google service to work, the service key was removed for privacy, the user need to have a valid google service key to run the code.
 5. The full_project_classes.py collects all the jupyter notebook codes, cleans up all the code and is well commented.
-6.The html heatmap code is in crime_last_week_heatmap_plot.ipynb. 
+6. The html heatmap code is in crime_last_week_heatmap_plot.ipynb. 
 
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
