@@ -1,29 +1,28 @@
 
+
+Description
+-----
+San Diego Crime Visualization is a project that generate a html Google Map describing the crime frequency. The data is collected from "http://www.sandag.org/index.asp?classid=14&subclassid=21&projectid=446&fuseaction=projects.detail". 
+
+The user can also enter an address in string format "9500 Gilman Drive" to get a map around that area.
+
 Links
 -----
 
-Team Google Drive: https://drive.google.com/drive/folders/0AMeubTS-jFLNUk9PVA
-
-Project Proposal: https://docs.google.com/document/d/1UtKciby-fdDKbxLnwJd16B53H-rmIwRrd3GxfNjgwjU/edit
-
+Links
+-----
 Slides: https://docs.google.com/presentation/d/1OLELE8NHs6DHJo2HIM2QdGfhkBhOPcE-ZgxQJUCCY0c/edit#slide=id.p
 
 Members:
 -----
-Jun Young Jang (jyjang@ucsd.edu)
-
-Jie Guo (jig179@ucsd.edu)
-
-Taylor Hua (t5hua@ucsd.edu)
-
 Yuming Qiao (y1qiao@ucsd.edu)
-
-Yibo Zhou(yiz875@ucsd.edu)
 
 Tim Miller (timtheviolinist@gmail.com)
 
-Notes:
+Taylor Hua (t5hua@ucsd.edu)
 
+How to run:
+-----
 To run the code, you need to install (python 2.7)
 1. numpy
 2. uszipcode - pip install uszipcode
