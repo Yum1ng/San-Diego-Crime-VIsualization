@@ -29,4 +29,4 @@ To run the code, you need to install (python 2.7)
 5. The full_project_classes.py collects all the jupyter notebook codes, cleans up all the code and is well commented.
 6. The html heatmap code is in crime_last_week_heatmap_plot.ipynb. 
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Optional Text](../master/Result/Crime Heatmap Demo.png)
