@@ -12,7 +12,7 @@ Slides: https://docs.google.com/presentation/d/1OLELE8NHs6DHJo2HIM2QdGfhkBhOPcE-
 
 Members:
 -----
-Yuming Qiao (y1qiao@ucsd.edu)
+Yuming Qiao (qym316@gmail.com)
 
 Tim Miller (timtheviolinist@gmail.com)
 
@@ -26,7 +26,6 @@ To run the code, you need to install (python 2.7)
 3. gmplot - please install from the github repo directly, the pip install will only give you an outdated version.
 - pip install git+https://github.com/vgm64/gmplot.git
 4. The code uses google service to work, the service key was removed for privacy, the user need to have a valid google service key to run the code.
-5. The full_project_classes.py collects all the jupyter notebook codes, cleans up all the code and is well commented. 
-
+5. The full_project_classes.py collects all the jupyter notebook codes, cleans up all the code and is well commented.
 6.The html heatmap code is in crime_last_week_heatmap_plot.ipynb. 
 
